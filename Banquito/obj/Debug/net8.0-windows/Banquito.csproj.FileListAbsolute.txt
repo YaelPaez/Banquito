@@ -1,0 +1,17 @@
+C:\Users\Yael\source\repos\Banquito\Banquito\bin\Debug\net8.0-windows\Banquito.exe
+C:\Users\Yael\source\repos\Banquito\Banquito\bin\Debug\net8.0-windows\Banquito.deps.json
+C:\Users\Yael\source\repos\Banquito\Banquito\bin\Debug\net8.0-windows\Banquito.runtimeconfig.json
+C:\Users\Yael\source\repos\Banquito\Banquito\bin\Debug\net8.0-windows\Banquito.dll
+C:\Users\Yael\source\repos\Banquito\Banquito\bin\Debug\net8.0-windows\Banquito.pdb
+C:\Users\Yael\source\repos\Banquito\Banquito\obj\Debug\net8.0-windows\Banquito.Form1.resources
+C:\Users\Yael\source\repos\Banquito\Banquito\obj\Debug\net8.0-windows\Banquito.csproj.GenerateResource.cache
+C:\Users\Yael\source\repos\Banquito\Banquito\obj\Debug\net8.0-windows\Banquito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yael\source\repos\Banquito\Banquito\obj\Debug\net8.0-windows\Banquito.AssemblyInfoInputs.cache
+C:\Users\Yael\source\repos\Banquito\Banquito\obj\Debug\net8.0-windows\Banquito.AssemblyInfo.cs
+C:\Users\Yael\source\repos\Banquito\Banquito\obj\Debug\net8.0-windows\Banquito.csproj.CoreCompileInputs.cache
+C:\Users\Yael\source\repos\Banquito\Banquito\obj\Debug\net8.0-windows\Banquito.dll
+C:\Users\Yael\source\repos\Banquito\Banquito\obj\Debug\net8.0-windows\refint\Banquito.dll
+C:\Users\Yael\source\repos\Banquito\Banquito\obj\Debug\net8.0-windows\Banquito.pdb
+C:\Users\Yael\source\repos\Banquito\Banquito\obj\Debug\net8.0-windows\Banquito.genruntimeconfig.cache
+C:\Users\Yael\source\repos\Banquito\Banquito\obj\Debug\net8.0-windows\ref\Banquito.dll
+C:\Users\Yael\source\repos\Banquito\Banquito\obj\Debug\net8.0-windows\Banquito.Registro.resources
